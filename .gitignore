@@ -2,11 +2,11 @@
 *.DS_Store
 
 # UE5 Project directories to ignore
-/Binaries/
-/DerivedDataCache/
-/Intermediate/
-/Saved/
-/Build/
+/LightShuffler/Binaries/
+/LightShuffler/DerivedDataCache/
+/LightShuffler/Intermediate/
+/LightShuffler/Saved/
+/LightShuffler/Build/
 
 # Visual Studio solutions
 /*.sln
